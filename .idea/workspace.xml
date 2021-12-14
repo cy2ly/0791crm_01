@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3e295dc3-87a4-44eb-9ded-655557e0b484" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\apache-maven-3.8.1\myRep" />
+        <option name="mavenHome" value="E:\IntelliJ IDEA\IntelliJ IDEA 2020.2.1\plugins\maven\lib\maven3" />
+        <option name="userSettingsFile" value="F:\apache-maven-3.8.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="11" />
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1y6ynvj1LMoI2cAV8Oh5ZqHyMWu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\java50\0791CRM\002_code\0791crm_01\src\main\resources\views\user" />
+      <recent name="F:\java50\0791CRM\002_code\0791crm_01\src\main\resources\public" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.yjxxt.crm.exceptions" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\java50\0791CRM\002_code\0791crm_01\src\main\resources" />
+      <recent name="F:\java50\0791CRM\002_code\0791crm_01\src\main\resources\views" />
+      <recent name="F:\java50\0791CRM\002_code\0791crm_01\src\main\java\com\yjxxt\crm\utils" />
+      <recent name="F:\java50\0791CRM\002_code\0791crm_01\src\main\resources\public" />
+      <recent name="F:\java50\0791CRM\002_code\0791crm_01\src\main\java\com\yjxxt\crm\exceptions" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Starter">
+    <configuration name="PhoneUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yjxxt.crm.utils.PhoneUtil" />
+      <module name="0791crm_01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yjxxt.crm.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserIDBase64" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yjxxt.crm.utils.UserIDBase64" />
+      <module name="0791crm_01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yjxxt.crm.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mybatis-generator" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="mybatis-generator:generate" />
+                <option value="-e" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="package" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="compile" />
+                <option value="package" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Starter" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="0791crm_01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yjxxt.crm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yjxxt.crm.Starter" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.UserIDBase64" />
+      <item itemvalue="Application.PhoneUtil" />
+      <item itemvalue="Maven.package" />
+      <item itemvalue="Maven.mybatis-generator" />
+      <item itemvalue="Spring Boot.Starter" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Starter" />
+        <item itemvalue="Application.PhoneUtil" />
+        <item itemvalue="Application.UserIDBase64" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e295dc3-87a4-44eb-9ded-655557e0b484" name="Default Changelist" comment="" />
+      <created>1631586504534</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631586504534</updated>
+      <workItem from="1631586505574" duration="17875000" />
+      <workItem from="1631666282580" duration="20739000" />
+      <workItem from="1631753219008" duration="20187000" />
+      <workItem from="1631838727160" duration="18325000" />
+      <workItem from="1631924942124" duration="19875000" />
+      <workItem from="1632270899944" duration="3546000" />
+      <workItem from="1632365024686" duration="422000" />
+      <workItem from="1632626021381" duration="151000" />
+      <workItem from="1632626440664" duration="4594000" />
+      <workItem from="1632706107181" duration="2636000" />
+      <workItem from="1639119359946" duration="1245000" />
+      <workItem from="1639122602113" duration="430000" />
+      <workItem from="1639469253955" duration="186000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="0" width="1171" height="680" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1632301474053">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" width="1171" height="680" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1632301474053" />
+    <state x="384" y="141" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1631586957156">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="384" y="141" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1631586957156" />
+    <state x="398" y="218" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1632636909854">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="398" y="218" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1280.680@0.0.1280.680" timestamp="1632636909854" />
+    <state x="446" y="49" key="#com.intellij.ide.util.MemberChooser" timestamp="1631931412744">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="49" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1631931412744" />
+    <state x="303" y="63" key="FileChooserDialogImpl" timestamp="1632636850751">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="63" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1632636850751" />
+    <state width="1237" height="53" key="GridCell.Tab.0.bottom" timestamp="1632710960474">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="53" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1632710960474" />
+    <state width="1237" height="53" key="GridCell.Tab.0.center" timestamp="1632710960473">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="53" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1632710960473" />
+    <state width="1237" height="53" key="GridCell.Tab.0.left" timestamp="1632710960473">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="53" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1632710960473" />
+    <state width="1237" height="53" key="GridCell.Tab.0.right" timestamp="1632710960473">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="53" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1632710960473" />
+    <state width="1237" height="53" key="GridCell.Tab.1.bottom" timestamp="1632710960479">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="53" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1632710960479" />
+    <state width="1237" height="53" key="GridCell.Tab.1.center" timestamp="1632710960477">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="53" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1632710960477" />
+    <state width="1237" height="53" key="GridCell.Tab.1.left" timestamp="1632710960476">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="53" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1632710960476" />
+    <state width="1237" height="53" key="GridCell.Tab.1.right" timestamp="1632710960478">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="53" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1632710960478" />
+    <state width="1237" height="379" key="GridCell.Tab.2.bottom" timestamp="1631931152787">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="379" key="GridCell.Tab.2.bottom/0.0.1280.680@0.0.1280.680" timestamp="1631931152787" />
+    <state width="1237" height="379" key="GridCell.Tab.2.center" timestamp="1631931152787">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="379" key="GridCell.Tab.2.center/0.0.1280.680@0.0.1280.680" timestamp="1631931152787" />
+    <state width="1237" height="379" key="GridCell.Tab.2.left" timestamp="1631931152787">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="379" key="GridCell.Tab.2.left/0.0.1280.680@0.0.1280.680" timestamp="1631931152787" />
+    <state width="1237" height="379" key="GridCell.Tab.2.right" timestamp="1631931152787">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="379" key="GridCell.Tab.2.right/0.0.1280.680@0.0.1280.680" timestamp="1631931152787" />
+    <state x="455" y="169" key="Registry" timestamp="1632635632241">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="455" y="169" key="Registry/0.0.1280.680@0.0.1280.680" timestamp="1632635632241" />
+    <state x="278" y="0" key="SettingsEditor" timestamp="1639469441548">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="185" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1632636864576" />
+    <state x="278" y="0" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1639469441548" />
+    <state x="221" y="0" key="com.intellij.database.dbimport.ImportDialog" timestamp="1631778192680">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="221" y="0" key="com.intellij.database.dbimport.ImportDialog/0.0.1280.680@0.0.1280.680" timestamp="1631778192680" />
+    <state x="-53" y="48" width="1097" height="477" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1632636674410">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="-53" y="48" width="1097" height="477" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1280.680@0.0.1280.680" timestamp="1632636674410" />
+    <state x="98" y="32" key="com.intellij.javaee.MapExternalResourceDialog" timestamp="1631587210122">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="98" y="32" key="com.intellij.javaee.MapExternalResourceDialog/0.0.1280.680@0.0.1280.680" timestamp="1631587210122" />
+    <state x="28" y="1" key="new project wizard" timestamp="1631781328999">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="28" y="1" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1631781328999" />
+    <state x="297" y="151" key="run.anything.popup" timestamp="1631861637438">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1631861637438" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1632301266318">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1632301266318" />
+  </component>
+</project>
